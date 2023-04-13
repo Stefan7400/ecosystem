@@ -2,3 +2,5 @@ name: ecosystem
 version: '${version}'
 main: de.ecosystem.Ecosystem
 api-version: 1.19
+depend:
+  - Vault
